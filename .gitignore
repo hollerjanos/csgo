@@ -1,0 +1,14 @@
+*
+
+!.gitignore
+
+!/cfg
+!/cfg/menu-system
+!/cfg/menu-system/**
+
+!/scripts
+!/scripts/vscripts
+!/scripts/vscripts/custom
+!/scripts/vscripts/custom/**
+
+!README.md
